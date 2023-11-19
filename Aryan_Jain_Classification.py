@@ -17,7 +17,7 @@ import seaborn as sns
 
 class Classification:
 
-    def __init__(self, clf_opt='rf', impute_opt='mean', feature_selc="corr"):
+    def __init__(self, clf_opt='rf', impute_opt='knn', feature_selc="mi"):
         # Constructor to initialize the object with classifier, imputation, and feature selection options
         self.clf_opt = clf_opt
         self.impute_opt = impute_opt
