@@ -14,3 +14,7 @@ Prediction of Mortality Rate of Heart Failure Patients Admitted to ICU
 ```bash
 python Aryan_Jain_main.py
 ```
+----------
+*Results*
+----------
+- I achieved a maximum F1-Score of 0.66 on the AdaBoost Classifier along with KNN imputation and Mutual Information Feature Selection method
