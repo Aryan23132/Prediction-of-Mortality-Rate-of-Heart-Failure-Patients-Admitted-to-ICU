@@ -1,8 +1,17 @@
 # Prediction-of-Mortality-Rate-of-Heart-Failure-Patients-Admitted-to-ICU
 Prediction of Mortality Rate of Heart Failure Patients Admitted to ICU
 
-#  Ouput #
--Run
-'''bash
+
+----------
+*Prerequisites*
+-------------
+- `Python 3.9`
+- Install necessary packages using `pip install -r requirements.txt`
+
+----------
+*output:*
+----------
+- Run the Following command:
+```bash
 python Aryan_Jain_main.py
-'''
+```
