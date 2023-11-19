@@ -6,6 +6,6 @@ warnings.filterwarnings("ignore")
 # for i in clss:
 #     for j in imp:
 #         print(i,"for",j) 
-classifier = Classification(clf_opt="dt", impute_opt="knn", feature_selc="corr")
+classifier = Classification(clf_opt="ab", impute_opt="knn", feature_selc="mi")
 classifier.classification()
            
