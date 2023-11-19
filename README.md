@@ -5,7 +5,6 @@ Prediction of Mortality Rate of Heart Failure Patients Admitted to ICU
 ----------
 *Prerequisites*
 -------------
-- `Python 3.9`
 - Install necessary packages using `pip install -r requirements.txt`
 
 ----------
